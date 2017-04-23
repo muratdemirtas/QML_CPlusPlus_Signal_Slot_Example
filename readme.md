@@ -22,9 +22,9 @@ This program requires a working Qt5 installation. It was tested with version 5.3
 In order to compile and run the program, execute the following commands.
 
 ~~~
-qmake signal_slot.pro
+qmake untitled2.pro
 make
-./signal_slot
+./untitled2
 ~~~
 
 Alternatively, the project can be loaded into Qt Creator and started from there.
