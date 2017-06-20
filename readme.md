@@ -29,4 +29,4 @@ make
 
 Alternatively, the project can be loaded into Qt Creator and started from there.
 
-![alt tag](http://i.hizliresim.com/01aEQL.jpg)
+![alt tag](http://image-store.slidesharecdn.com/4aeb7fb9-a3a1-45c9-b028-f655a05537e6-original.png)
